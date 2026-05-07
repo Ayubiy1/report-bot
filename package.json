@@ -14,7 +14,9 @@
   "dependencies": {
     "dotenv": "^17.4.2",
     "exceljs": "^4.4.0",
+    "express": "^5.2.1",
     "fs": "^0.0.1-security",
+    "jq": "^1.7.2",
     "mongoose": "^9.6.1",
     "node-telegram-bot-api": "^0.67.0",
     "telegraf": "^4.16.3",
