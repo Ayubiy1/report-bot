@@ -12,6 +12,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "colors": "^1.4.0",
     "commander": "^14.0.3",
     "dotenv": "^17.4.2",
     "exceljs": "^4.4.0",
